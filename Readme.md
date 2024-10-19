@@ -4,15 +4,17 @@
 
 ![alt text](image.png)
 
- Project Description
+# Project Description
 
-Introduction
-In today's fast-paced automotive market, accurately predicting car prices is crucial for buyers, sellers, and industry professionals. 
-Leveraging the power of machine learning in Car Price Prediction aims to revolutionize how car prices are estimated, providing precise and reliable insights.
-Project Overview
-This project utilizes a comprehensive dataset of car sales to build a robust machine learning model capable of predicting car prices with high accuracy. 
-By integrating advanced algorithms and thorough data preprocessing, our model helps users make informed decisions based on various car features such as age, mileage, fuel type, and more.
-Key Steps
+- In today's fast-paced automotive market, accurately predicting car prices is crucial for buyers, sellers, and industry professionals. 
+- Leveraging the power of machine learning in Car Price Prediction aims to revolutionize how car prices are estimated, providing precise and reliable insights.
+
+# Project Overview
+
+- This project utilizes a comprehensive dataset of car sales to build a robust machine learning model capable of predicting car prices with high accuracy. 
+- By integrating advanced algorithms and thorough data preprocessing, our model helps users make informed decisions based on various car features such as age, mileage, fuel type, and more.
+
+# Key Steps
 
 1. Data Acquisition and Exploration:
 
@@ -62,4 +64,4 @@ Key Steps
 
 - Implement a monitoring system to track the model's performance and make necessary adjustments over time.
 
-# By embracing this advanced machine learning approach, stakeholders can gain valuable insights, optimize pricing strategies, and stay ahead in the competitive automotive market.
+- By embracing this advanced machine learning approach, stakeholders can gain valuable insights, optimize pricing strategies, and stay ahead in the competitive automotive market.
